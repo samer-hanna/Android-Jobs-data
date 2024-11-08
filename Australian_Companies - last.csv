@@ -1,0 +1,951 @@
+﻿#,Company name,Job,Technology or skill
+1,QUICKINFOTECH PVT LTD,Android App Developer,Security
+1,QUICKINFOTECH PVT LTD,Android App Developer,Performance
+1,QUICKINFOTECH PVT LTD,Android App Developer,scalablility
+1,QUICKINFOTECH PVT LTD,Android App Developer,usability
+1,QUICKINFOTECH PVT LTD,Android App Developer,communication
+1,QUICKINFOTECH PVT LTD,Android App Developer,Location Based Services
+1,QUICKINFOTECH PVT LTD,Android App Developer,REST Web Services Integration
+1,QUICKINFOTECH PVT LTD,Android App Developer,GCM
+1,QUICKINFOTECH PVT LTD,Android App Developer,Push Notification
+1,QUICKINFOTECH PVT LTD,Android App Developer,Battery Optimization
+1,QUICKINFOTECH PVT LTD,Android App Developer,memory management
+1,QUICKINFOTECH PVT LTD,Android App Developer,resource optimizations
+1,QUICKINFOTECH PVT LTD,Android App Developer,Android automation
+1,QUICKINFOTECH PVT LTD,Android App Developer,unit testing
+1,QUICKINFOTECH PVT LTD,Android App Developer,mentor skill
+1,QUICKINFOTECH PVT LTD,Android App Developer,MySQL
+1,QUICKINFOTECH PVT LTD,Android App Developer,data structures
+1,QUICKINFOTECH PVT LTD,Android App Developer,algorithms
+1,QUICKINFOTECH PVT LTD,Android App Developer,software design
+1,QUICKINFOTECH PVT LTD,Android App Developer,Agile
+1,QUICKINFOTECH PVT LTD,Android App Developer,work under pressure
+1,QUICKINFOTECH PVT LTD,Android App Developer,UI design
+1,QUICKINFOTECH PVT LTD,Android App Developer,Releasing android apps to google play store 
+1,QUICKINFOTECH PVT LTD,Android App Developer,Android SDK
+1,QUICKINFOTECH PVT LTD,Android App Developer,code reviews
+1,QUICKINFOTECH PVT LTD,Android App Developer,test automation
+1,QUICKINFOTECH PVT LTD,Android App Developer,Collaboration
+2,New World Management,Android Developer,Collaboration
+2,New World Management,Android Developer,design
+2,New World Management,Android Developer,implementation
+2,New World Management,Android Developer,development best practices
+2,New World Management,Android Developer,Troubleshoot
+2,New World Management,Android Developer,testing
+2,New World Management,Android Developer,documentation
+2,New World Management,Android Developer,performance
+2,New World Management,Android Developer,user experience
+2,New World Management,Android Developer,responsiveness
+2,New World Management,Android Developer,Releasing android apps to google play store 
+2,New World Management,Android Developer,Zebra devices
+2,New World Management,Android Developer,Java
+2,New World Management,Android Developer,Kotlin
+2,New World Management,Android Developer,Android Studio
+2,New World Management,Android Developer,Gradle
+2,New World Management,Android Developer,Git
+2,New World Management,Android Developer,problem-solving
+2,New World Management,Android Developer,attention to detail
+2,New World Management,Android Developer,communication
+2,New World Management,Android Developer,manage multiple tasks
+2,New World Management,Android Developer,retail
+2,New World Management,Android Developer,e-commerce
+2,New World Management,Android Developer,Agile
+3,Jobs via eFinancialCareers,Android Developer,Collaboration
+3,Jobs via eFinancialCareers,Android Developer,planning
+3,Jobs via eFinancialCareers,Android Developer,reuse open source projects
+3,Jobs via eFinancialCareers,Android Developer,Write clean code
+3,Jobs via eFinancialCareers,Android Developer,development best practices
+3,Jobs via eFinancialCareers,Android Developer,audit
+3,Jobs via eFinancialCareers,Android Developer,sonar scan
+3,Jobs via eFinancialCareers,Android Developer,Agile
+3,Jobs via eFinancialCareers,Android Developer,mentoring
+3,Jobs via eFinancialCareers,Android Developer,learning
+3,Jobs via eFinancialCareers,Android Developer,robustness
+3,Jobs via eFinancialCareers,Android Developer,security
+3,Jobs via eFinancialCareers,Android Developer,Swift
+3,Jobs via eFinancialCareers,Android Developer,Kotlin
+3,Jobs via eFinancialCareers,Android Developer,mobile application design
+3,Jobs via eFinancialCareers,Android Developer,development best practices
+3,Jobs via eFinancialCareers,Android Developer,RESTful APIs
+3,Jobs via eFinancialCareers,Android Developer,.NET
+3,Jobs via eFinancialCareers,Android Developer,JAVA
+3,Jobs via eFinancialCareers,Android Developer,NodeJS
+3,Jobs via eFinancialCareers,Android Developer,iOS
+3,Jobs via eFinancialCareers,Android Developer,Redux
+3,Jobs via eFinancialCareers,Android Developer,JIRA
+3,Jobs via eFinancialCareers,Android Developer,BitBucket
+3,Jobs via eFinancialCareers,Android Developer,Confluence
+3,Jobs via eFinancialCareers,Android Developer,CI/CD
+3,Jobs via eFinancialCareers,Android Developer,Bamboo
+3,Jobs via eFinancialCareers,Android Developer,exposure
+3,Jobs via eFinancialCareers,Android Developer,testing automation
+3,Jobs via eFinancialCareers,Android Developer,user experience
+3,Jobs via eFinancialCareers,Android Developer,reusability
+3,Jobs via eFinancialCareers,Android Developer,scalability
+3,Jobs via eFinancialCareers,Android Developer,design patterns
+3,Jobs via eFinancialCareers,Android Developer,concurrency
+3,Jobs via eFinancialCareers,Android Developer,performance
+3,Jobs via eFinancialCareers,Android Developer,communication
+3,Jobs via eFinancialCareers,Android Developer,presentation
+4,Luxury Escapes,Senior Android Developer,Kotlin
+4,Luxury Escapes,Senior Android Developer,Jetpack
+4,Luxury Escapes,Senior Android Developer,Automated testing
+4,Luxury Escapes,Senior Android Developer,Attention to detail
+4,Luxury Escapes,Senior Android Developer,problem-solving
+4,Luxury Escapes,Senior Android Developer,Agile
+5,Concentrix,Software Engineer - Android,development best practices
+5,Concentrix,Software Engineer - Android,Collaboration
+5,Concentrix,Software Engineer - Android,Write clean code
+5,Concentrix,Software Engineer - Android,maintainability
+5,Concentrix,Software Engineer - Android,reusability
+5,Concentrix,Software Engineer - Android,Kotlin
+5,Concentrix,Software Engineer - Android,Jetpack
+5,Concentrix,Software Engineer - Android,Android Architecture Components
+5,Concentrix,Software Engineer - Android,iOS
+5,Concentrix,Software Engineer - Android,.NET
+5,Concentrix,Software Engineer - Android,AWS
+5,Concentrix,Software Engineer - Android,Azure
+5,Concentrix,Software Engineer - Android,React Native
+5,Concentrix,Software Engineer - Android,troubleshooting
+5,Concentrix,Software Engineer - Android,root cause analysis
+5,Concentrix,Software Engineer - Android,wearables
+5,Concentrix,Software Engineer - Android,VR/AR
+5,Concentrix,Software Engineer - Android,IoT devices
+5,Concentrix,Software Engineer - Android,2+
+5,Concentrix,Software Engineer - Android,design
+5,Concentrix,Software Engineer - Android,implementation
+5,Concentrix,Software Engineer - Android,communication
+5,Concentrix,Software Engineer - Android,business requirements
+5,Concentrix,Software Engineer - Android,proactive spirit
+5,Concentrix,Software Engineer - Android,continuously improving your skills
+5,Concentrix,Software Engineer - Android,Git
+5,Concentrix,Software Engineer - Android,user-centred design
+5,Concentrix,Software Engineer - Android,Continuous Integration (CI)
+5,Concentrix,Software Engineer - Android,testablity
+5,Concentrix,Software Engineer - Android,Unit Testing
+5,Concentrix,Software Engineer - Android,Agile
+5,Concentrix,Software Engineer - Android,Scrum
+5,Concentrix,Software Engineer - Android,Kanban
+6,Monash University,Senior Mobile Developer,"Integrating Third Party libraries, APIs and SDKs"
+6,Monash University,Senior Mobile Developer,Define technical requirements for user stories
+6,Monash University,Senior Mobile Developer,performance
+6,Monash University,Senior Mobile Developer,scalability
+6,Monash University,Senior Mobile Developer,mentoring
+6,Monash University,Senior Mobile Developer,problem-solving
+6,Monash University,Senior Mobile Developer,Kotlin
+6,Monash University,Senior Mobile Developer,Android development
+6,Monash University,Senior Mobile Developer,Administrative experience
+7,WooliesX,Senior Android Engineer,UI design
+7,WooliesX,Senior Android Engineer,Android sdk
+7,WooliesX,Senior Android Engineer,Android development
+7,WooliesX,Senior Android Engineer,development best practices
+7,WooliesX,Senior Android Engineer,Unit Testing
+7,WooliesX,Senior Android Engineer,robustness
+7,WooliesX,Senior Android Engineer,usability
+7,WooliesX,Senior Android Engineer,reliability
+7,WooliesX,Senior Android Engineer,SDLC
+7,WooliesX,Senior Android Engineer,Agile
+7,WooliesX,Senior Android Engineer,teamwork
+7,WooliesX,Senior Android Engineer,automated testing
+7,WooliesX,Senior Android Engineer,5+
+7,WooliesX,Senior Android Engineer,Jetpack
+7,WooliesX,Senior Android Engineer,MVVM
+7,WooliesX,Senior Android Engineer,Android design principles
+7,WooliesX,Senior Android Engineer,interface guidelines
+7,WooliesX,Senior Android Engineer,API design
+7,WooliesX,Senior Android Engineer,UI test
+7,WooliesX,Senior Android Engineer,collaboration
+8,CodeMaya,Android Developer,Design
+8,CodeMaya,Android Developer,software testing
+8,CodeMaya,Android Developer,Java
+8,CodeMaya,Android Developer,Android SDK
+8,CodeMaya,Android Developer,bug fixes
+8,CodeMaya,Android Developer,write tests
+8,CodeMaya,Android Developer,software architecture
+8,CodeMaya,Android Developer,technical documentation
+8,CodeMaya,Android Developer,Unit testing
+8,CodeMaya,Android Developer,robustness
+8,CodeMaya,Android Developer,usability
+8,CodeMaya,Android Developer,reliability
+8,CodeMaya,Android Developer,3+
+8,CodeMaya,Android Developer,mobile development life cycle
+8,CodeMaya,Android Developer,Android SDK
+8,CodeMaya,Android Developer,"Activities, Fragments, Intents, Layouts"
+8,CodeMaya,Android Developer,design patterns
+8,CodeMaya,Android Developer,REST
+8,CodeMaya,Android Developer,JSON
+8,CodeMaya,Android Developer,XML
+8,CodeMaya,Android Developer,Web services
+8,CodeMaya,Android Developer,JQuery
+8,CodeMaya,Android Developer,XSLT
+8,CodeMaya,Android Developer,"Integrating Third Party libraries, APIs and SDKs"
+9,Pyramid Global Technologies,Android Developer,Android SDK
+9,Pyramid Global Technologies,Android Developer,Kotlin
+9,Pyramid Global Technologies,Android Developer,Java
+9,Pyramid Global Technologies,Android Developer,debugging
+9,Pyramid Global Technologies,Android Developer,software testing
+9,Pyramid Global Technologies,Android Developer,Robolectric
+9,Pyramid Global Technologies,Android Developer,Cucumber
+9,Pyramid Global Technologies,Android Developer,Calabash-android
+10,Medibank,Senior Android Engineer,SDLC
+10,Medibank,Senior Android Engineer,Collaboration
+10,Medibank,Senior Android Engineer,teamwork
+10,Medibank,Senior Android Engineer,troubleshooting
+10,Medibank,Senior Android Engineer,code reviews
+10,Medibank,Senior Android Engineer,documentation
+10,Medibank,Senior Android Engineer,Security
+10,Medibank,Senior Android Engineer,Kotlin
+10,Medibank,Senior Android Engineer,design patterns
+10,Medibank,Senior Android Engineer,MVVM
+10,Medibank,Senior Android Engineer,MVP
+10,Medibank,Senior Android Engineer,clean code
+10,Medibank,Senior Android Engineer,coroutines
+10,Medibank,Senior Android Engineer,agile
+10,Medibank,Senior Android Engineer,Scrum
+10,Medibank,Senior Android Engineer,Kanban
+10,Medibank,Senior Android Engineer,TDD
+10,Medibank,Senior Android Engineer,CI/CD
+10,Medibank,Senior Android Engineer,Jetpack
+10,Medibank,Senior Android Engineer,RESTful API
+10,Medibank,Senior Android Engineer,Material Design
+10,Medibank,Senior Android Engineer,UX Principles
+11,CareCone Australia,Android Developer,Kotlin
+11,CareCone Australia,Android Developer,management reports
+11,CareCone Australia,Android Developer,bug fixes
+11,CareCone Australia,Android Developer,performance
+11,CareCone Australia,Android Developer,teamwork
+11,CareCone Australia,Android Developer,reusability
+11,CareCone Australia,Android Developer,Unit testing
+11,CareCone Australia,Android Developer,reliablility
+11,CareCone Australia,Android Developer,UX
+11,CareCone Australia,Android Developer,Collaboration
+11,CareCone Australia,Android Developer,security
+11,CareCone Australia,Android Developer,UI
+11,CareCone Australia,Android Developer,memory leaks
+11,CareCone Australia,Android Developer,Write tests
+12,Vibidsoft,Android Developer,Design
+12,Vibidsoft,Android Developer,Collaboration
+12,Vibidsoft,Android Developer,Unit testing
+12,Vibidsoft,Android Developer,robustness
+12,Vibidsoft,Android Developer,usability
+12,Vibidsoft,Android Developer,reliability
+12,Vibidsoft,Android Developer,bug fixes
+12,Vibidsoft,Android Developer,performance
+12,Vibidsoft,Android Developer,1+
+12,Vibidsoft,Android Developer,Releasing android apps to google play store 
+12,Vibidsoft,Android Developer,Android SDK
+12,Vibidsoft,Android Developer,REST
+12,Vibidsoft,Android Developer,JSON
+12,Vibidsoft,Android Developer,"Integrating Third Party libraries, APIs and SDKs"
+12,Vibidsoft,Android Developer,SDLC
+13,Lumin,Experienced Android Developer,collaboration
+13,Lumin,Experienced Android Developer,teamwork
+13,Lumin,Experienced Android Developer,Kotlin
+13,Lumin,Experienced Android Developer,Coroutines
+13,Lumin,Experienced Android Developer,Jetpack
+13,Lumin,Experienced Android Developer,OkHttp
+13,Lumin,Experienced Android Developer,Retrofit
+13,Lumin,Experienced Android Developer,Moshi
+13,Lumin,Experienced Android Developer,Dagger
+13,Lumin,Experienced Android Developer,Room
+13,Lumin,Experienced Android Developer,Android testing frameworks
+13,Lumin,Experienced Android Developer,REST 
+13,Lumin,Experienced Android Developer,Graphql
+13,Lumin,Experienced Android Developer,IOS
+14,M3DICINE,Android Developer,UI/UX
+14,M3DICINE,Android Developer,TDD
+14,M3DICINE,Android Developer,communication
+14,M3DICINE,Android Developer,Agile
+14,M3DICINE,Android Developer,robustness
+14,M3DICINE,Android Developer,reliability
+14,M3DICINE,Android Developer,bug fixes
+14,M3DICINE,Android Developer,performance
+14,M3DICINE,Android Developer,development best practices
+14,M3DICINE,Android Developer,maintain test documentation
+14,M3DICINE,Android Developer,debugging
+14,M3DICINE,Android Developer,design
+14,M3DICINE,Android Developer,testing
+14,M3DICINE,Android Developer,object-oriented programming
+14,M3DICINE,Android Developer,audio file
+14,M3DICINE,Android Developer,medical device
+14,M3DICINE,Android Developer,aviation
+14,M3DICINE,Android Developer,attention to detail
+14,M3DICINE,Android Developer,written documentation
+14,M3DICINE,Android Developer,learn quickly
+14,M3DICINE,Android Developer,code review
+14,M3DICINE,Android Developer,teamwork
+14,M3DICINE,Android Developer,agile
+15,Davidson,Senior Android Engineer,Kotlin
+15,Davidson,Senior Android Engineer,RxJava
+15,Davidson,Senior Android Engineer,Retrofit
+15,Davidson,Senior Android Engineer,dependency injection
+15,Davidson,Senior Android Engineer,automated testing
+15,Davidson,Senior Android Engineer,Unit testing
+15,Davidson,Senior Android Engineer,UI testing
+15,Davidson,Senior Android Engineer,Android design principles
+15,Davidson,Senior Android Engineer,interface guidelines
+15,Davidson,Senior Android Engineer,communication
+15,Davidson,Senior Android Engineer,RESTful APIs
+15,Davidson,Senior Android Engineer,"Integrating Third Party libraries, APIs and SDKs"
+15,Davidson,Senior Android Engineer,agile
+15,Davidson,Senior Android Engineer,coroutines
+15,Davidson,Senior Android Engineer,navigation components
+15,Davidson,Senior Android Engineer,self-development
+16,Swift Networks,Senior Android Engineer,maintenance
+16,Swift Networks,Senior Android Engineer,development of test suites
+16,Swift Networks,Senior Android Engineer,test documentation
+16,Swift Networks,Senior Android Engineer,Mentor
+16,Swift Networks,Senior Android Engineer,3+
+16,Swift Networks,Senior Android Engineer,Java
+16,Swift Networks,Senior Android Engineer,Kotlin
+16,Swift Networks,Senior Android Engineer,video playback
+16,Swift Networks,Senior Android Engineer,test automation
+16,Swift Networks,Senior Android Engineer,RESTful APIs
+16,Swift Networks,Senior Android Engineer,JSON
+16,Swift Networks,Senior Android Engineer,Releasing android apps to google play store 
+16,Swift Networks,Senior Android Engineer,CI/CD
+16,Swift Networks,Senior Android Engineer,git
+16,Swift Networks,Senior Android Engineer,Agile
+16,Swift Networks,Senior Android Engineer,Flutter
+16,Swift Networks,Senior Android Engineer,teamwork
+16,Swift Networks,Senior Android Engineer,Jetpack
+16,Swift Networks,Senior Android Engineer,TV
+16,Swift Networks,Senior Android Engineer,Coroutines
+17,Duress,Android Developer,AI
+17,Duress,Android Developer,teamwork
+17,Duress,Android Developer,performance
+17,Duress,Android Developer,security
+17,Duress,Android Developer,reliability
+17,Duress,Android Developer,safety
+17,Duress,Android Developer,3+
+17,Duress,Android Developer,machine learning
+17,Duress,Android Developer,video/audio streaming
+17,Duress,Android Developer,real-time communication
+17,Duress,Android Developer,problem-solving
+17,Duress,Android Developer,computer vision
+17,Duress,Android Developer,NLP
+17,Duress,Android Developer,OpenCV
+17,Duress,Android Developer,Android system-privilege
+17,Duress,Android Developer,device management
+18,Sonder,Android Engineer,software testing
+18,Sonder,Android Engineer,code review
+18,Sonder,Android Engineer,design
+18,Sonder,Android Engineer,specification
+18,Sonder,Android Engineer,implementation
+18,Sonder,Android Engineer,iterative development
+18,Sonder,Android Engineer,requirements analysis
+18,Sonder,Android Engineer,performance
+18,Sonder,Android Engineer,Collaboration
+18,Sonder,Android Engineer,Mentoring
+18,Sonder,Android Engineer,3+
+18,Sonder,Android Engineer,Android SDK
+18,Sonder,Android Engineer,Jetpack
+18,Sonder,Android Engineer,Material Design
+18,Sonder,Android Engineer,Coroutines
+18,Sonder,Android Engineer,Flow
+18,Sonder,Android Engineer,MVVM 
+18,Sonder,Android Engineer,Clean Architecture
+18,Sonder,Android Engineer,RESTful APIs
+18,Sonder,Android Engineer,networking libraries
+18,Sonder,Android Engineer,Retrofit
+18,Sonder,Android Engineer,Firebase
+18,Sonder,Android Engineer,location-based features
+18,Sonder,Android Engineer,Unit testing
+18,Sonder,Android Engineer,UI testing
+18,Sonder,Android Engineer,JUnit
+18,Sonder,Android Engineer,Espresso
+18,Sonder,Android Engineer,Releasing android apps to google play store 
+18,Sonder,Android Engineer,learning
+18,Sonder,Android Engineer,CI/CD
+18,Sonder,Android Engineer,git
+18,Sonder,Android Engineer,Kotlin
+18,Sonder,Android Engineer,Java
+18,Sonder,Android Engineer,architectural patterns
+18,Sonder,Android Engineer,Jetpack 
+18,Sonder,Android Engineer,problem-solving
+19,Snaphunt,Android Developer,Design
+19,Snaphunt,Android Developer,Collaboration
+19,Snaphunt,Android Developer,"Integrating Third Party libraries, APIs and SDKs"
+19,Snaphunt,Android Developer,Unit testing
+19,Snaphunt,Android Developer,robustness
+19,Snaphunt,Android Developer,usability
+19,Snaphunt,Android Developer,reliability
+19,Snaphunt,Android Developer,bug fixes
+19,Snaphunt,Android Developer,performance
+19,Snaphunt,Android Developer,3+
+19,Snaphunt,Android Developer,Releasing android apps to google play store 
+19,Snaphunt,Android Developer,Android SDK
+19,Snaphunt,Android Developer,REST
+19,Snaphunt,Android Developer,JSON
+19,Snaphunt,Android Developer,mobile development life cycle
+20,TikTok,Android Software Engineer,Java
+20,TikTok,Android Software Engineer,Kotlin
+20,TikTok,Android Software Engineer,debugging
+20,TikTok,Android Software Engineer,communication
+20,TikTok,Android Software Engineer,collaboration
+20,TikTok,Android Software Engineer,robustness
+20,TikTok,Android Software Engineer,maintainablility
+20,TikTok,Android Software Engineer,clear documentation
+20,TikTok,Android Software Engineer,Livestream knowledge
+21,Qantas Airways,Senior Software Engineer - Android,Kotlin
+21,Qantas Airways,Senior Software Engineer - Android,Android SDK
+21,Qantas Airways,Senior Software Engineer - Android,offline storage
+21,Qantas Airways,Senior Software Engineer - Android,threading
+21,Qantas Airways,Senior Software Engineer - Android,performance tuning
+21,Qantas Airways,Senior Software Engineer - Android,RESTful APIs
+21,Qantas Airways,Senior Software Engineer - Android,integrating back-end services
+21,Qantas Airways,Senior Software Engineer - Android,web technologies
+21,Qantas Airways,Senior Software Engineer - Android,UI/UX standards
+21,Qantas Airways,Senior Software Engineer - Android,MVVM
+21,Qantas Airways,Senior Software Engineer - Android,Android design principles
+21,Qantas Airways,Senior Software Engineer - Android,interface guidelines
+21,Qantas Airways,Senior Software Engineer - Android,API design
+21,Qantas Airways,Senior Software Engineer - Android,Unit tests
+21,Qantas Airways,Senior Software Engineer - Android,UI tests
+21,Qantas Airways,Senior Software Engineer - Android,Jetpack
+21,Qantas Airways,Senior Software Engineer - Android,microservices architecture
+21,Qantas Airways,Senior Software Engineer - Android,Spring Boot
+21,Qantas Airways,Senior Software Engineer - Android,Ktor
+21,Qantas Airways,Senior Software Engineer - Android,CI/CD
+22,Westpac Bank,Android Developer,Collaboration
+22,Westpac Bank,Android Developer,teamwork
+22,Westpac Bank,Android Developer,reuse of shared components
+22,Westpac Bank,Android Developer,CI/CD
+22,Westpac Bank,Android Developer,clean code
+22,Westpac Bank,Android Developer,development best practices
+22,Westpac Bank,Android Developer,audit
+22,Westpac Bank,Android Developer,sonar scan
+22,Westpac Bank,Android Developer,Agile
+22,Westpac Bank,Android Developer,mentoring
+22,Westpac Bank,Android Developer,robustness
+22,Westpac Bank,Android Developer,Swift
+22,Westpac Bank,Android Developer,Kotlin
+22,Westpac Bank,Android Developer,mobile application design
+22,Westpac Bank,Android Developer,RESTful APIs
+22,Westpac Bank,Android Developer,.NET
+22,Westpac Bank,Android Developer,JAVA
+22,Westpac Bank,Android Developer,NodeJS 
+22,Westpac Bank,Android Developer,iOS
+22,Westpac Bank,Android Developer,Redux
+22,Westpac Bank,Android Developer,JIRA
+22,Westpac Bank,Android Developer,BitBucket
+22,Westpac Bank,Android Developer,Confluence
+22,Westpac Bank,Android Developer,Bamboo
+22,Westpac Bank,Android Developer,test automation
+22,Westpac Bank,Android Developer,reusability
+22,Westpac Bank,Android Developer,scalability
+22,Westpac Bank,Android Developer,design patterns
+22,Westpac Bank,Android Developer,concurrency
+22,Westpac Bank,Android Developer,performance
+22,Westpac Bank,Android Developer,communication
+23,Aurec Group,Mobile Engineer - Android Developer,4+
+23,Aurec Group,Mobile Engineer - Android Developer,Agile
+23,Aurec Group,Mobile Engineer - Android Developer,CI/CD
+23,Aurec Group,Mobile Engineer - Android Developer,Git
+23,Aurec Group,Mobile Engineer - Android Developer,Kotlin
+23,Aurec Group,Mobile Engineer - Android Developer,Java
+23,Aurec Group,Mobile Engineer - Android Developer,Android SDK
+23,Aurec Group,Mobile Engineer - Android Developer,MVVM 
+23,Aurec Group,Mobile Engineer - Android Developer,MVP
+23,Aurec Group,Mobile Engineer - Android Developer,development best practices
+23,Aurec Group,Mobile Engineer - Android Developer,Collaboration
+23,Aurec Group,Mobile Engineer - Android Developer,teamwork
+24,On-Hire,Android/Kotlin Developer,Java
+24,On-Hire,Android/Kotlin Developer,J2EE
+24,On-Hire,Android/Kotlin Developer,Kotlin
+24,On-Hire,Android/Kotlin Developer,unit testing
+24,On-Hire,Android/Kotlin Developer,preparing documentation
+24,On-Hire,Android/Kotlin Developer,Design
+24,On-Hire,Android/Kotlin Developer,Releasing android apps to google play store 
+24,On-Hire,Android/Kotlin Developer,delivery estimates
+24,On-Hire,Android/Kotlin Developer,teamwork
+24,On-Hire,Android/Kotlin Developer,problem-solving
+24,On-Hire,Android/Kotlin Developer,Android SDK
+24,On-Hire,Android/Kotlin Developer,Native development
+24,On-Hire,Android/Kotlin Developer,UI
+24,On-Hire,Android/Kotlin Developer,JSON
+24,On-Hire,Android/Kotlin Developer,OAuth
+24,On-Hire,Android/Kotlin Developer,Social Sharing
+24,On-Hire,Android/Kotlin Developer,Email Integration
+24,On-Hire,Android/Kotlin Developer,GPS/Google API
+24,On-Hire,Android/Kotlin Developer,Groovy
+24,On-Hire,Android/Kotlin Developer,SQLite
+24,On-Hire,Android/Kotlin Developer,REST services
+24,On-Hire,Android/Kotlin Developer,Web services
+24,On-Hire,Android/Kotlin Developer,Git
+25,eTeam,Android developer,5+
+25,eTeam,Android developer,Kotlin
+25,eTeam,Android developer,Java
+25,eTeam,Android developer,Retrofit
+25,eTeam,Android developer,Jetpack
+25,eTeam,Android developer,Navigation
+25,eTeam,Android developer,Accessibility
+25,eTeam,Android developer,MVVM
+25,eTeam,Android developer,debugging
+25,eTeam,Android developer,memory optimization
+25,eTeam,Android developer,Android SDK
+25,eTeam,Android developer,Android application lifecycle
+25,eTeam,Android developer,Restful API integration
+25,eTeam,Android developer,integrating back-end services
+25,eTeam,Android developer,"Integrating Third Party libraries, APIs and SDKs"
+25,eTeam,Android developer,UI guidelines
+25,eTeam,Android developer,material designs
+25,eTeam,Android developer,Unit test
+25,eTeam,Android developer,test automation
+26,The Onset,Software engineer - android,Collaboration
+26,The Onset,Software engineer - android,Native Android development skills
+26,The Onset,Software engineer - android,4+
+26,The Onset,Software engineer - android,product lifecycle experience
+26,The Onset,Software engineer - android,teamwork
+26,The Onset,Software engineer - android,communication
+26,The Onset,Software engineer - android,Quick learner
+26,The Onset,Software engineer - android,enjoys working autonomously
+26,The Onset,Software engineer - android,Java
+26,The Onset,Software engineer - android,Kotlin
+26,The Onset,Software engineer - android,Jetpack
+27,Coles Supermarkets,Senior Software Engineer - Android,eCommerce
+27,Coles Supermarkets,Senior Software Engineer - Android,Agile
+27,Coles Supermarkets,Senior Software Engineer - Android,Scrum
+27,Coles Supermarkets,Senior Software Engineer - Android,analytical skills
+27,Coles Supermarkets,Senior Software Engineer - Android,problem-solving
+27,Coles Supermarkets,Senior Software Engineer - Android,cloud environment
+27,Coles Supermarkets,Senior Software Engineer - Android,communication
+27,Coles Supermarkets,Senior Software Engineer - Android,collaboration
+27,Coles Supermarkets,Senior Software Engineer - Android,stakeholder management
+27,Coles Supermarkets,Senior Software Engineer - Android,teamwork
+28,Zeller,Senior Android Engineer,Kotlin
+28,Zeller,Senior Android Engineer,teamwork
+28,Zeller,Senior Android Engineer,Payment system
+28,Zeller,Senior Android Engineer,Collaboration
+28,Zeller,Senior Android Engineer,requirements analysis
+28,Zeller,Senior Android Engineer,software testing
+28,Zeller,Senior Android Engineer,Releasing android apps to google play store 
+28,Zeller,Senior Android Engineer,implementation
+28,Zeller,Senior Android Engineer,rxJava
+28,Zeller,Senior Android Engineer,Coroutines
+28,Zeller,Senior Android Engineer,dependency injection
+28,Zeller,Senior Android Engineer,Dagger
+28,Zeller,Senior Android Engineer,GraphQL
+28,Zeller,Senior Android Engineer,CLEAN architecture
+28,Zeller,Senior Android Engineer,automation
+28,Zeller,Senior Android Engineer,Maestro
+29,Woolworths Group,Senior Android Engineer,development best practices
+29,Woolworths Group,Senior Android Engineer,Unit testing
+29,Woolworths Group,Senior Android Engineer,robustness
+29,Woolworths Group,Senior Android Engineer,usability
+29,Woolworths Group,Senior Android Engineer,reliability
+29,Woolworths Group,Senior Android Engineer,SDLC
+29,Woolworths Group,Senior Android Engineer,Agile
+29,Woolworths Group,Senior Android Engineer,automated testing
+29,Woolworths Group,Senior Android Engineer,teamwork
+29,Woolworths Group,Senior Android Engineer,CI/CD
+29,Woolworths Group,Senior Android Engineer,5+
+29,Woolworths Group,Senior Android Engineer,Jetpack
+29,Woolworths Group,Senior Android Engineer,Android SDK
+29,Woolworths Group,Senior Android Engineer,MVVM
+29,Woolworths Group,Senior Android Engineer,Android design principles
+29,Woolworths Group,Senior Android Engineer,interface guidelines
+29,Woolworths Group,Senior Android Engineer,API design
+29,Woolworths Group,Senior Android Engineer,UI tests
+30,Airwallex,Senior Android Engineer,AndroidX
+30,Airwallex,Senior Android Engineer,Coroutines
+30,Airwallex,Senior Android Engineer,Hilt
+30,Airwallex,Senior Android Engineer,Jetpack
+30,Airwallex,Senior Android Engineer,5+
+30,Airwallex,Senior Android Engineer,Releasing android apps to google play store 
+30,Airwallex,Senior Android Engineer,dependency injection
+30,Airwallex,Senior Android Engineer,Dagger
+30,Airwallex,Senior Android Engineer,Kotlin
+30,Airwallex,Senior Android Engineer,testablility
+30,Airwallex,Senior Android Engineer,test coverage
+30,Airwallex,Senior Android Engineer,CI/CD
+31,Bella Vista,Senior Android Engineer,e-commerce
+31,Bella Vista,Senior Android Engineer,robustness
+31,Bella Vista,Senior Android Engineer,development best practices
+31,Bella Vista,Senior Android Engineer,Unit testing
+31,Bella Vista,Senior Android Engineer,usability
+31,Bella Vista,Senior Android Engineer,reliability
+31,Bella Vista,Senior Android Engineer,SDLC
+31,Bella Vista,Senior Android Engineer,Implement new features
+31,Bella Vista,Senior Android Engineer,Agile
+31,Bella Vista,Senior Android Engineer,teamwork
+31,Bella Vista,Senior Android Engineer,automated testing
+31,Bella Vista,Senior Android Engineer,5+
+31,Bella Vista,Senior Android Engineer,Jetpack
+31,Bella Vista,Senior Android Engineer,Android SDK
+31,Bella Vista,Senior Android Engineer,MVVM
+31,Bella Vista,Senior Android Engineer,Android design principles
+31,Bella Vista,Senior Android Engineer,interface guidelines
+31,Bella Vista,Senior Android Engineer,API design
+31,Bella Vista,Senior Android Engineer,Unit tests
+31,Bella Vista,Senior Android Engineer,UI tests
+32,Crypto Recruit,Android Developer,Kotlin
+32,Crypto Recruit,Android Developer,Java
+32,Crypto Recruit,Android Developer,UI design
+32,Crypto Recruit,Android Developer,fast learner
+32,Crypto Recruit,Android Developer,juggle conflicting requirements from many different stakeholders
+32,Crypto Recruit,Android Developer,MVVM
+32,Crypto Recruit,Android Developer,reactive programming
+32,Crypto Recruit,Android Developer,RxJava
+32,Crypto Recruit,Android Developer,RxAndroid
+32,Crypto Recruit,Android Developer,multi-module architecture
+32,Crypto Recruit,Android Developer,real time graph
+32,Crypto Recruit,Android Developer,displaying real time data
+32,Crypto Recruit,Android Developer,TDD
+32,Crypto Recruit,Android Developer,Unit testing
+33,Neso Academy,Android Developer,UI
+33,Neso Academy,Android Developer,UX
+33,Neso Academy,Android Developer,bug fixes
+33,Neso Academy,Android Developer,security
+33,Neso Academy,Android Developer,standards
+34,TEKsystems,Android Developer,Data Structures
+34,TEKsystems,Android Developer,algorithm
+34,TEKsystems,Android Developer,6+
+34,TEKsystems,Android Developer,Android sdk
+34,TEKsystems,Android Developer,Jetpack
+34,TEKsystems,Android Developer,Java
+34,TEKsystems,Android Developer,Kotlin
+34,TEKsystems,Android Developer,Android Studio
+34,TEKsystems,Android Developer,"Integrating Third Party libraries, APIs and SDKs"
+34,TEKsystems,Android Developer,Communication
+35,Aegis Softtech,Android Developer,2+
+35,Aegis Softtech,Android Developer,Translate designs into code
+35,Aegis Softtech,Android Developer,Design
+35,Aegis Softtech,Android Developer,performance
+35,Aegis Softtech,Android Developer,responsiveness
+35,Aegis Softtech,Android Developer,bug fixes
+35,Aegis Softtech,Android Developer,RESTful APIs
+35,Aegis Softtech,Android Developer,integrating back-end services
+35,Aegis Softtech,Android Developer,UI design
+35,Aegis Softtech,Android Developer,development best practices
+36,Forward Eye Technologies,Android Kotlin Developer,Kotlin
+36,Forward Eye Technologies,Android Kotlin Developer,design
+36,Forward Eye Technologies,Android Kotlin Developer,implemention
+36,Forward Eye Technologies,Android Kotlin Developer,Collaboration
+36,Forward Eye Technologies,Android Kotlin Developer,Write clean code
+36,Forward Eye Technologies,Android Kotlin Developer,maintainability
+36,Forward Eye Technologies,Android Kotlin Developer,development best practices
+36,Forward Eye Technologies,Android Kotlin Developer,design patterns
+36,Forward Eye Technologies,Android Kotlin Developer,software testing
+36,Forward Eye Technologies,Android Kotlin Developer,debugging
+36,Forward Eye Technologies,Android Kotlin Developer,performance
+36,Forward Eye Technologies,Android Kotlin Developer,UX/UI design
+36,Forward Eye Technologies,Android Kotlin Developer,RESTful APIs
+36,Forward Eye Technologies,Android Kotlin Developer,code reviews
+36,Forward Eye Technologies,Android Kotlin Developer,coding standards
+36,Forward Eye Technologies,Android Kotlin Developer,troubleshooting
+36,Forward Eye Technologies,Android Kotlin Developer,Continuously learn
+36,Forward Eye Technologies,Android Kotlin Developer,3+
+36,Forward Eye Technologies,Android Kotlin Developer,Android SDK
+36,Forward Eye Technologies,Android Kotlin Developer,Android Studio
+36,Forward Eye Technologies,Android Kotlin Developer,object oriented programming
+36,Forward Eye Technologies,Android Kotlin Developer,"Integrating Third Party libraries, APIs and SDKs"
+36,Forward Eye Technologies,Android Kotlin Developer,Git
+36,Forward Eye Technologies,Android Kotlin Developer,Agile
+36,Forward Eye Technologies,Android Kotlin Developer,Android development
+37,Quantsapp,Android developer,Integrate the design into high quality code
+37,Quantsapp,Android developer,performance
+37,Quantsapp,Android developer,responsiveness
+37,Quantsapp,Android developer,bug fixes
+37,Quantsapp,Android developer,teamwork
+37,Quantsapp,Android developer,collaboration
+37,Quantsapp,Android developer,problem-solving
+37,Quantsapp,Android developer,3+
+37,Quantsapp,Android developer,Android SDK
+37,Quantsapp,Android developer,deal with different screen sizes
+37,Quantsapp,Android developer,Android's design principles
+37,Quantsapp,Android developer,interface guidelines
+37,Quantsapp,Android developer,Releasing android apps to google play store 
+37,Quantsapp,Android developer,Web Services
+37,Quantsapp,Android developer,REST
+37,Quantsapp,Android developer,JSON
+37,Quantsapp,Android developer,Websocket
+37,Quantsapp,Android developer,Retrofit
+37,Quantsapp,Android developer,SQLite
+37,Quantsapp,Android developer,Google API Integration
+37,Quantsapp,Android developer,Firebase
+37,Quantsapp,Android developer,cloud message APIs
+37,Quantsapp,Android developer,push notifications
+37,Quantsapp,Android developer,"Integrating Third Party libraries, APIs and SDKs"
+37,Quantsapp,Android developer,UI design
+37,Quantsapp,Android developer,Git
+38,Vayuz Technologies,Android developer,5+
+38,Vayuz Technologies,Android developer,Agile
+38,Vayuz Technologies,Android developer,JIRA 
+38,Vayuz Technologies,Android developer,Git
+38,Vayuz Technologies,Android developer,code review
+38,Vayuz Technologies,Android developer,Jenkins
+38,Vayuz Technologies,Android developer,Bitbucket
+38,Vayuz Technologies,Android developer,Unit testing
+38,Vayuz Technologies,Android developer,automated testing
+38,Vayuz Technologies,Android developer,Communication
+38,Vayuz Technologies,Android developer,Collaboration
+38,Vayuz Technologies,Android developer,Mentor developers
+38,Vayuz Technologies,Android developer,security
+38,Vayuz Technologies,Android developer,design guidelines
+38,Vayuz Technologies,Android developer,MVI
+38,Vayuz Technologies,Android developer,MVVM
+38,Vayuz Technologies,Android developer,RxJava
+38,Vayuz Technologies,Android developer,RxAndroid
+38,Vayuz Technologies,Android developer,RxKotlin
+38,Vayuz Technologies,Android developer,OOP
+38,Vayuz Technologies,Android developer,Clean Architecture
+38,Vayuz Technologies,Android developer,Kotlin
+38,Vayuz Technologies,Android developer,Java
+38,Vayuz Technologies,Android developer,Coroutines
+38,Vayuz Technologies,Android developer,Flows
+38,Vayuz Technologies,Android developer,Android SDK
+38,Vayuz Technologies,Android developer,Android design principles
+38,Vayuz Technologies,Android developer,interface guidelines
+38,Vayuz Technologies,Android developer,jetpack
+38,Vayuz Technologies,Android developer,SQLite
+38,Vayuz Technologies,Android developer,Realm
+38,Vayuz Technologies,Android developer,firebase
+38,Vayuz Technologies,Android developer,Releasing android apps to google play store 
+38,Vayuz Technologies,Android developer,Reactive programming
+38,Vayuz Technologies,Android developer,design patterns
+38,Vayuz Technologies,Android developer,C/C++
+38,Vayuz Technologies,Android developer,Android NDK
+38,Vayuz Technologies,Android developer,multi-threading
+38,Vayuz Technologies,Android developer,GPS API
+38,Vayuz Technologies,Android developer,Espresso
+38,Vayuz Technologies,Android developer,Roboelectric
+38,Vayuz Technologies,Android developer,RESTful APIs
+38,Vayuz Technologies,Android developer,Bluetooth
+38,Vayuz Technologies,Android developer,socket programming
+38,Vayuz Technologies,Android developer,device communication
+38,Vayuz Technologies,Android developer,GSON
+38,Vayuz Technologies,Android developer,Dagger
+38,Vayuz Technologies,Android developer,Retrofit
+38,Vayuz Technologies,Android developer,Glide
+38,Vayuz Technologies,Android developer,battery management
+38,Vayuz Technologies,Android developer,Data structures
+38,Vayuz Technologies,Android developer,Memory management
+39,iGuru,Android developer,Java
+39,iGuru,Android developer,2+
+39,iGuru,Android developer,Android SDK
+39,iGuru,Android developer,deal with different screen sizes
+39,iGuru,Android developer,RESTful APIs
+39,iGuru,Android developer,integrating back-end services
+39,iGuru,Android developer,offline storage
+39,iGuru,Android developer,multi-threading
+39,iGuru,Android developer,performance tuning
+39,iGuru,Android developer,cloud message APIs
+39,iGuru,Android developer,push notification
+39,iGuru,Android developer,Android GUI
+39,iGuru,Android developer,Cameras
+39,iGuru,Android developer,GPS API
+39,iGuru,Android developer,Maps API
+39,iGuru,Android developer,SQLite
+39,iGuru,Android developer,debugging
+39,iGuru,Android developer,coding standards
+39,iGuru,Android developer,documentation skills
+39,iGuru,Android developer,object-oriented programming
+39,iGuru,Android developer,Payment Gateway Integration
+39,iGuru,Android developer,animations
+39,iGuru,Android developer,Android lifecycle
+40,Estel Technologies,Android developer,4+
+40,Estel Technologies,Android developer,design
+40,Estel Technologies,Android developer,collaboration
+40,Estel Technologies,Android developer,"Integrating Third Party libraries, APIs and SDKs"
+40,Estel Technologies,Android developer,unit testing
+40,Estel Technologies,Android developer,robustness
+40,Estel Technologies,Android developer,usability
+40,Estel Technologies,Android developer,reliability
+40,Estel Technologies,Android developer,bug fixes
+40,Estel Technologies,Android developer,performance
+40,Estel Technologies,Android developer,UI
+40,Estel Technologies,Android developer,Releasing android apps to google play store 
+40,Estel Technologies,Android developer,REST
+40,Estel Technologies,Android developer,JSON
+41,Spin Virtual Solutions Inc,Android developer,Maintenance
+41,Spin Virtual Solutions Inc,Android developer,debugging
+41,Spin Virtual Solutions Inc,Android developer,development best practices
+41,Spin Virtual Solutions Inc,Android developer,write test suite
+41,Spin Virtual Solutions Inc,Android developer,Collaboration
+41,Spin Virtual Solutions Inc,Android developer,performance
+41,Spin Virtual Solutions Inc,Android developer,Firebase
+41,Spin Virtual Solutions Inc,Android developer,Jira
+41,Spin Virtual Solutions Inc,Android developer,Stripe documentation
+41,Spin Virtual Solutions Inc,Android developer,iOS
+41,Spin Virtual Solutions Inc,Android developer,Java
+41,Spin Virtual Solutions Inc,Android developer,"Integrating Third Party libraries, APIs and SDKs"
+41,Spin Virtual Solutions Inc,Android developer,Automated Testing
+41,Spin Virtual Solutions Inc,Android developer,Communication
+42,Venturay,Android developer,UI
+42,Venturay,Android developer,leadership
+42,Venturay,Android developer,stability
+42,Venturay,Android developer,performance
+42,Venturay,Android developer,Design
+42,Venturay,Android developer,Agile
+42,Venturay,Android developer,prototyping
+42,Venturay,Android developer,CI/CD
+42,Venturay,Android developer,CORE JAVA
+42,Venturay,Android developer,JAVA 
+42,Venturay,Android developer,Object oriented design principles
+42,Venturay,Android developer,Design Patterns
+42,Venturay,Android developer,SqLite
+42,Venturay,Android developer,AppData
+42,Venturay,Android developer,Bitbucket
+42,Venturay,Android developer,Git
+42,Venturay,Android developer,Jira
+42,Venturay,Android developer,TDD
+42,Venturay,Android developer,BDD
+42,Venturay,Android developer,Creative
+42,Venturay,Android developer,communication 
+43,Carecone Pty. Ltd.,Android developer,Kotlin
+43,Carecone Pty. Ltd.,Android developer,communication
+43,Carecone Pty. Ltd.,Android developer,MVVM
+43,Carecone Pty. Ltd.,Android developer,Clean Architecture
+43,Carecone Pty. Ltd.,Android developer,SOLID
+43,Carecone Pty. Ltd.,Android developer,responsiveness
+43,Carecone Pty. Ltd.,Android developer,performance
+43,Carecone Pty. Ltd.,Android developer,Accessibility
+43,Carecone Pty. Ltd.,Android developer,UI
+43,Carecone Pty. Ltd.,Android developer,Android Studio
+43,Carecone Pty. Ltd.,Android developer,Gradle
+43,Carecone Pty. Ltd.,Android developer,Coroutines
+43,Carecone Pty. Ltd.,Android developer,Flow
+43,Carecone Pty. Ltd.,Android developer,Room
+43,Carecone Pty. Ltd.,Android developer,unit testing
+43,Carecone Pty. Ltd.,Android developer,development best practices
+43,Carecone Pty. Ltd.,Android developer,security
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,robustness
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,UI
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Component Design
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,unit tests
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,debugging
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,bug fixes
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,development best practices
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,communication
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,problem-solving
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,multi-task
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,work independently
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,performance
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,4+
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,"android concepts such as Activity, Fragments"
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Android lifecycle
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,networking
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,caching
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Object-Oriented Programming
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,data structures
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Releasing android apps to google play store 
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,design patterns
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Java
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,security
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,cryptography
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Git
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Jira
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Jenkins
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Agile
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,RxJava
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,custom framework
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Performance Tuning
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Multi-threading
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Factory design pattern
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Adapter design pattern
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Singleton design pattern
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,MVC
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,MVVM 
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,VIPER pattern
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,"Integrating Third Party libraries, APIs and SDKs"
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Gradle
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Firebase
+44,Publicis Groupe,Senior Developer Mobile Solutions Android,Crashlytics
+45,Apprendo Srl,Android Developer Middle,3+
+45,Apprendo Srl,Android Developer Middle,design
+45,Apprendo Srl,Android Developer Middle,implementation
+45,Apprendo Srl,Android Developer Middle,performance
+45,Apprendo Srl,Android Developer Middle,Java
+45,Apprendo Srl,Android Developer Middle,Kotlin
+45,Apprendo Srl,Android Developer Middle,Android Studio
+45,Apprendo Srl,Android Developer Middle,Jetpack
+45,Apprendo Srl,Android Developer Middle,Retrofit
+45,Apprendo Srl,Android Developer Middle,Room
+45,Apprendo Srl,Android Developer Middle,time management
+45,Apprendo Srl,Android Developer Middle,teamwork
+46,ElevenLabs,Android Developer,AI
+46,ElevenLabs,Android Developer,Collaboration
+46,ElevenLabs,Android Developer,performance
+46,ElevenLabs,Android Developer,responsiveness
+46,ElevenLabs,Android Developer,code reviews
+46,ElevenLabs,Android Developer,development best practices
+46,ElevenLabs,Android Developer,coding standards
+46,ElevenLabs,Android Developer,UX
+46,ElevenLabs,Android Developer,A/B tests
+46,ElevenLabs,Android Developer,learn
+47,Trideca,Android Developer,Design
+47,Trideca,Android Developer,code review
+47,Trideca,Android Developer,implement
+47,Trideca,Android Developer,Agile
+47,Trideca,Android Developer,prototyping
+47,Trideca,Android Developer,teamwork
+47,Trideca,Android Developer,Understand the requirements of the customer
+47,Trideca,Android Developer,CI/CD
+47,Trideca,Android Developer,DevOps
+47,Trideca,Android Developer,robustness
+47,Trideca,Android Developer,unit testing
+47,Trideca,Android Developer,component testing
+47,Trideca,Android Developer,test coverage
+47,Trideca,Android Developer,debugging
+47,Trideca,Android Developer,6+
+48,careerone,Android Developer,Collaboration
+48,careerone,Android Developer,CI/CD
+48,careerone,Android Developer,teamwork
+48,careerone,Android Developer,reuse of shared components
+48,careerone,Android Developer,Write clean code
+48,careerone,Android Developer,development best practices
+48,careerone,Android Developer,audit
+48,careerone,Android Developer,sonar scan
+48,careerone,Android Developer,Agile
+48,careerone,Android Developer,mentoring
+48,careerone,Android Developer,Swift
+48,careerone,Android Developer,Kotlin
+48,careerone,Android Developer,Xcode IDE
+48,careerone,Android Developer,SPM
+48,careerone,Android Developer,Git
+48,careerone,Android Developer,Bitbucket
+48,careerone,Android Developer,JIRA
+48,careerone,Android Developer,IXGuard
+48,careerone,Android Developer,DexGuard
+48,careerone,Android Developer,Bamboo
+48,careerone,Android Developer,Gradle
+48,careerone,Android Developer,Fastlane
+48,careerone,Android Developer,Artifactory
+48,careerone,Android Developer,Maven
+48,careerone,Android Developer,Visual Studio Code
+48,careerone,Android Developer,Android Studio
+48,careerone,Android Developer,mobile application design
+48,careerone,Android Developer,RESTful APIs
+48,careerone,Android Developer,NET
+48,careerone,Android Developer,Java
+48,careerone,Android Developer,NodeJS
+48,careerone,Android Developer,iOS
+48,careerone,Android Developer,Agile
+48,careerone,Android Developer,Redux
+48,careerone,Android Developer,Confluence
+48,careerone,Android Developer,UX
+48,careerone,Android Developer,communication
+48,careerone,Android Developer,reusability
+48,careerone,Android Developer,scalability
+48,careerone,Android Developer,test automation
+49,Canva,Android Engineer,design
+49,Canva,Android Engineer,code reviews
+49,Canva,Android Engineer,Android Studio
+49,Canva,Android Engineer,Android sdk
+49,Canva,Android Engineer,Java
+49,Canva,Android Engineer,Kotlin
+49,Canva,Android Engineer,networking
+49,Canva,Android Engineer,RxJava
+49,Canva,Android Engineer,Agile
+50,Timeri Job exchange,Android Developer Middle,3+
+50,Timeri Job exchange,Android Developer Middle,Java
+50,Timeri Job exchange,Android Developer Middle,Kotlin
+50,Timeri Job exchange,Android Developer Middle,Android Studio
+50,Timeri Job exchange,Android Developer Middle,Jetpack
+50,Timeri Job exchange,Android Developer Middle,Retrofit
+50,Timeri Job exchange,Android Developer Middle,Room
+50,Timeri Job exchange,Android Developer Middle,time management
+50,Timeri Job exchange,Android Developer Middle,teamwork
+50,Timeri Job exchange,Android Developer Middle,Gaming
+50,Timeri Job exchange,Android Developer Middle,VR

@@ -1,0 +1,734 @@
+,Company name,Job,Technology or skill,Date
+1,Jumar Solutions Ltd,Mobile Android Developer,Kotlin,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,Jetpack Compose,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,XML,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,MVVM,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,Agile,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,Scrum ,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,Azure ,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,Android Studio,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,Git,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,diagnose production issues,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,code fixes,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,configuration fixes,22/08/2024
+1,Jumar Solutions Ltd,Mobile Android Developer,integrating Android mobile applications with APIs,22/08/2024
+2,CareerAddict,Android Developer (Financial Services),JUnit ,22/08/2024
+2,CareerAddict,Android Developer (Financial Services),Jetpack Compose,22/08/2024
+2,CareerAddict,Android Developer (Financial Services),Kotlin ,22/08/2024
+2,CareerAddict,Android Developer (Financial Services),Coroutines ,22/08/2024
+2,CareerAddict,Android Developer (Financial Services),MVI ,22/08/2024
+2,CareerAddict,Android Developer (Financial Services),REST API,22/08/2024
+2,CareerAddict,Android Developer (Financial Services),Financial services,22/08/2024
+3,Adria Solutions,Android Mobile Developer,Collaborating with others,22/08/2024
+3,Adria Solutions,Android Mobile Developer,reliablility,22/08/2024
+3,Adria Solutions,Android Mobile Developer,security,22/08/2024
+3,Adria Solutions,Android Mobile Developer,accurate timeframes and delivery estimates,22/08/2024
+3,Adria Solutions,Android Mobile Developer,coding best practices,22/08/2024
+3,Adria Solutions,Android Mobile Developer,Java,22/08/2024
+3,Adria Solutions,Android Mobile Developer,Kotlin,22/08/2024
+3,Adria Solutions,Android Mobile Developer,Android SDK,22/08/2024
+3,Adria Solutions,Android Mobile Developer,Jetpack,22/08/2024
+3,Adria Solutions,Android Mobile Developer,web technologies,22/08/2024
+3,Adria Solutions,Android Mobile Developer,UI/UX standards,22/08/2024
+3,Adria Solutions,Android Mobile Developer,design principles,22/08/2024
+3,Adria Solutions,Android Mobile Developer,interface guidelines,22/08/2024
+3,Adria Solutions,Android Mobile Developer,performance ,22/08/2024
+3,Adria Solutions,Android Mobile Developer,memory optimisation,22/08/2024
+3,Adria Solutions,Android Mobile Developer,Android Studio Profiler,22/08/2024
+3,Adria Solutions,Android Mobile Developer,Git,22/08/2024
+3,Adria Solutions,Android Mobile Developer,iOS,22/08/2024
+3,Adria Solutions,Android Mobile Developer,Agile,22/08/2024
+4,unrd ,Android developer,Java,24/08/2024
+4,unrd ,Android developer,Kotlin,24/08/2024
+4,unrd ,Android developer,2+,24/08/2024
+4,unrd ,Android developer,material design,24/08/2024
+4,unrd ,Android developer,design best practices,24/08/2024
+4,unrd ,Android developer,coding guidelines,24/08/2024
+4,unrd ,Android developer,design patterns,24/08/2024
+4,unrd ,Android developer,software architecture,24/08/2024
+4,unrd ,Android developer,clean code,24/08/2024
+4,unrd ,Android developer,consuming APIs,24/08/2024
+4,unrd ,Android developer,HTTP,24/08/2024
+4,unrd ,Android developer,ASP.NET,24/08/2024
+4,unrd ,Android developer,ASP.NET,24/08/2024
+4,unrd ,Android developer,node.js,24/08/2024
+4,unrd ,Android developer,unit testing,24/08/2024
+4,unrd ,Android developer,integration testing,24/08/2024
+4,unrd ,Android developer,CI,24/08/2024
+4,unrd ,Android developer,gaming ,24/08/2024
+4,unrd ,Android developer,movies ,24/08/2024
+4,unrd ,Android developer,MVVM,24/08/2024
+4,unrd ,Android developer,coroutines,24/08/2024
+4,unrd ,Android developer,creative ,24/08/2024
+5,Portman Scott,Android developer,Kotlin,22/08/2024
+5,Portman Scott,Android developer,Dagger,22/08/2024
+5,Portman Scott,Android developer,Collaboration,22/08/2024
+5,Portman Scott,Android developer,Debugging,22/08/2024
+5,Portman Scott,Android developer,performance,22/08/2024
+5,Portman Scott,Android developer,Android best practices,22/08/2024
+5,Portman Scott,Android developer,2+,22/08/2024
+5,Portman Scott,Android developer,Dependency injection,22/08/2024
+5,Portman Scott,Android developer,Problem-Solving,22/08/2024
+5,Portman Scott,Android developer,UX,22/08/2024
+6,CrowdScores,Android developer,UX,22/08/2024
+6,CrowdScores,Android developer,architecture ,22/08/2024
+6,CrowdScores,Android developer,software testing,22/08/2024
+6,CrowdScores,Android developer,teamwork,22/08/2024
+6,CrowdScores,Android developer,Communication,22/08/2024
+6,CrowdScores,Android developer,Agile,22/08/2024
+6,CrowdScores,Android developer,Scrum,22/08/2024
+6,CrowdScores,Android developer,Dagger,22/08/2024
+6,CrowdScores,Android developer,RxJava,22/08/2024
+6,CrowdScores,Android developer,Material Design,22/08/2024
+6,CrowdScores,Android developer,Espresso ,22/08/2024
+6,CrowdScores,Android developer,Java,22/08/2024
+6,CrowdScores,Android developer,Android framework,22/08/2024
+7,Vertech Group,Android developer,Kotlin,18/08/2024
+7,Vertech Group,Android developer,UI/UX design,18/08/2024
+7,Vertech Group,Android developer,code best practices,18/08/2024
+7,Vertech Group,Android developer,Git,18/08/2024
+7,Vertech Group,Android developer,design patterns,18/08/2024
+8,Dyson,Lead Android Developer,teamwork,24/08/2024
+8,Dyson,Lead Android Developer,CI,24/08/2024
+8,Dyson,Lead Android Developer,6+,24/08/2024
+8,Dyson,Lead Android Developer,collaboration,24/08/2024
+8,Dyson,Lead Android Developer,published Android applications,24/08/2024
+8,Dyson,Lead Android Developer,passionate about learning new things,24/08/2024
+8,Dyson,Lead Android Developer,solving real-world problems,24/08/2024
+9,John Goddard Associates,Android Developer,Kotlin,21/08/2024
+9,John Goddard Associates,Android Developer,Jetpack,21/08/2024
+9,John Goddard Associates,Android Developer,XML,21/08/2024
+9,John Goddard Associates,Android Developer,MVVM,21/08/2024
+9,John Goddard Associates,Android Developer,Scrum,21/08/2024
+9,John Goddard Associates,Android Developer,Agile,21/08/2024
+9,John Goddard Associates,Android Developer,Azure DevOps,21/08/2024
+9,John Goddard Associates,Android Developer,CI/CD,21/08/2024
+9,John Goddard Associates,Android Developer,Android studio,21/08/2024
+9,John Goddard Associates,Android Developer,GIT,21/08/2024
+9,John Goddard Associates,Android Developer,"integrating Third Party libraries, APIs and SDKs",21/08/2024
+10,Geo20,Lead Android Engineer,Google play store,24/08/2024
+10,Geo20,Lead Android Engineer,Prototyping,24/08/2024
+10,Geo20,Lead Android Engineer,Kotlin,24/08/2024
+10,Geo20,Lead Android Engineer,Java,24/08/2024
+10,Geo20,Lead Android Engineer,unit testing,24/08/2024
+10,Geo20,Lead Android Engineer,UI testing,24/08/2024
+10,Geo20,Lead Android Engineer,Junit,24/08/2024
+10,Geo20,Lead Android Engineer,Espresso,24/08/2024
+10,Geo20,Lead Android Engineer,Android best practices,24/08/2024
+10,Geo20,Lead Android Engineer,design guidelines,24/08/2024
+10,Geo20,Lead Android Engineer,algorithms,24/08/2024
+10,Geo20,Lead Android Engineer,data structures,24/08/2024
+10,Geo20,Lead Android Engineer,ARCore,24/08/2024
+10,Geo20,Lead Android Engineer,OpenGL,24/08/2024
+10,Geo20,Lead Android Engineer,3D technologies,24/08/2024
+10,Geo20,Lead Android Engineer,location-based technologies,24/08/2024
+10,Geo20,Lead Android Engineer,Python,24/08/2024
+10,Geo20,Lead Android Engineer,C++,24/08/2024
+10,Geo20,Lead Android Engineer,Collaboration,24/08/2024
+10,Geo20,Lead Android Engineer,testability,24/08/2024
+10,Geo20,Lead Android Engineer,teamwork,24/08/2024
+10,Geo20,Lead Android Engineer,A passion for teaching,24/08/2024
+10,Geo20,Lead Android Engineer,UX,24/08/2024
+11,Veritone,Senior Android Engineer,TDD,19/08/2024
+11,Veritone,Senior Android Engineer,BDD,19/08/2024
+11,Veritone,Senior Android Engineer,creative,19/08/2024
+11,Veritone,Senior Android Engineer,collaboration,19/08/2024
+11,Veritone,Senior Android Engineer,scalability,19/08/2024
+11,Veritone,Senior Android Engineer,maintainablility,19/08/2024
+11,Veritone,Senior Android Engineer,iOS,19/08/2024
+11,Veritone,Senior Android Engineer,teamwork,19/08/2024
+11,Veritone,Senior Android Engineer,user experience,19/08/2024
+11,Veritone,Senior Android Engineer,Debugging,19/08/2024
+11,Veritone,Senior Android Engineer,code review,19/08/2024
+11,Veritone,Senior Android Engineer,performance,19/08/2024
+11,Veritone,Senior Android Engineer,responsiveness,19/08/2024
+11,Veritone,Senior Android Engineer,code best practices,19/08/2024
+11,Veritone,Senior Android Engineer,3+,19/08/2024
+11,Veritone,Senior Android Engineer,Xcode,19/08/2024
+11,Veritone,Senior Android Engineer,Android Studio,19/08/2024
+11,Veritone,Senior Android Engineer,Kotlin,19/08/2024
+11,Veritone,Senior Android Engineer,Swift,19/08/2024
+11,Veritone,Senior Android Engineer,Cocoa Pods,19/08/2024
+11,Veritone,Senior Android Engineer,Maven,19/08/2024
+11,Veritone,Senior Android Engineer,Unit Testing,19/08/2024
+11,Veritone,Senior Android Engineer,JUnit,19/08/2024
+11,Veritone,Senior Android Engineer,Mockito,19/08/2024
+11,Veritone,Senior Android Engineer,XCUnit,19/08/2024
+11,Veritone,Senior Android Engineer,integrating Android mobile applications with APIs,19/08/2024
+11,Veritone,Senior Android Engineer,bug fixes,19/08/2024
+11,Veritone,Senior Android Engineer,test automation,19/08/2024
+11,Veritone,Senior Android Engineer,communication,19/08/2024
+11,Veritone,Senior Android Engineer,mentoring and coaching,19/08/2024
+11,Veritone,Senior Android Engineer,Agile,19/08/2024
+11,Veritone,Senior Android Engineer,scrum,19/08/2024
+11,Veritone,Senior Android Engineer,Google Play Console,19/08/2024
+11,Veritone,Senior Android Engineer,healthcare,19/08/2024
+11,Veritone,Senior Android Engineer,Javascript,19/08/2024
+11,Veritone,Senior Android Engineer,cloud services,19/08/2024
+11,Veritone,Senior Android Engineer,AWS,19/08/2024
+11,Veritone,Senior Android Engineer,communication protocols,19/08/2024
+12,Huxley Banking & Financial Services,Android Developer,Java,25/08/2024
+12,Huxley Banking & Financial Services,Android Developer,teamwork,25/08/2024
+12,Huxley Banking & Financial Services,Android Developer,Banking,25/08/2024
+12,Huxley Banking & Financial Services,Android Developer,Kotlin,25/08/2024
+12,Huxley Banking & Financial Services,Android Developer,2+,25/08/2024
+12,Huxley Banking & Financial Services,Android Developer,Google Play store,25/08/2024
+12,Huxley Banking & Financial Services,Android Developer,RxJava,25/08/2024
+12,Huxley Banking & Financial Services,Android Developer,RESTful API,25/08/2024
+12,Huxley Banking & Financial Services,Android Developer,PostgreSQL,25/08/2024
+13,CareerAddict,Lead Android Engineer,MVVM,23/08/2024
+13,CareerAddict,Lead Android Engineer,Kotlin,23/08/2024
+13,CareerAddict,Lead Android Engineer,Java,23/08/2024
+13,CareerAddict,Lead Android Engineer,Git,23/08/2024
+13,CareerAddict,Lead Android Engineer,troubleshooting,23/08/2024
+13,CareerAddict,Lead Android Engineer,streamlining,23/08/2024
+13,CareerAddict,Lead Android Engineer,clean code,23/08/2024
+13,CareerAddict,Lead Android Engineer,maintainability,23/08/2024
+13,CareerAddict,Lead Android Engineer,MVVM,23/08/2024
+13,CareerAddict,Lead Android Engineer,Android architecture patterns,23/08/2024
+13,CareerAddict,Lead Android Engineer,Automated testing,23/08/2024
+13,CareerAddict,Lead Android Engineer,performance,23/08/2024
+13,CareerAddict,Lead Android Engineer,Git,23/08/2024
+13,CareerAddict,Lead Android Engineer,system design,23/08/2024
+13,CareerAddict,Lead Android Engineer,debugging,23/08/2024
+13,CareerAddict,Lead Android Engineer,Agile ,23/08/2024
+13,CareerAddict,Lead Android Engineer,Security,23/08/2024
+13,CareerAddict,Lead Android Engineer,CI/CD,23/08/2024
+13,CareerAddict,Lead Android Engineer,Cryptography,23/08/2024
+13,CareerAddict,Lead Android Engineer,React Native,23/08/2024
+13,CareerAddict,Lead Android Engineer,Expo,23/08/2024
+14,Glance,Android Developer,Kotlin,25/08/2024
+14,Glance,Android Developer,Dart,25/08/2024
+14,Glance,Android Developer,Agile,25/08/2024
+14,Glance,Android Developer,plan,25/08/2024
+14,Glance,Android Developer,estimate,25/08/2024
+14,Glance,Android Developer,performance,25/08/2024
+14,Glance,Android Developer,Write clean code,25/08/2024
+14,Glance,Android Developer,reusability,25/08/2024
+14,Glance,Android Developer,Collaboration,25/08/2024
+14,Glance,Android Developer,Unit testing,25/08/2024
+14,Glance,Android Developer,robustness testing,25/08/2024
+14,Glance,Android Developer,usability,25/08/2024
+14,Glance,Android Developer,reliability,25/08/2024
+14,Glance,Android Developer,fix bugs,25/08/2024
+14,Glance,Android Developer,Document software development processes,25/08/2024
+14,Glance,Android Developer,Flutter,25/08/2024
+14,Glance,Android Developer,teamwork,25/08/2024
+14,Glance,Android Developer,problem-solving,25/08/2024
+15,Tempting Ventures,Android Developer,GPS,23/08/2024
+15,Tempting Ventures,Android Developer,kotlin,23/08/2024
+15,Tempting Ventures,Android Developer,Coroutines,23/08/2024
+15,Tempting Ventures,Android Developer,Jetpack,23/08/2024
+15,Tempting Ventures,Android Developer,MVVM,23/08/2024
+15,Tempting Ventures,Android Developer,Automated testing,23/08/2024
+15,Tempting Ventures,Android Developer,unit testing,23/08/2024
+15,Tempting Ventures,Android Developer,CI/CD,23/08/2024
+15,Tempting Ventures,Android Developer,Navigation,23/08/2024
+15,Tempting Ventures,Android Developer,enthusiasim,23/08/2024
+16,SR2,Android Engineer,released applications,24/08/2024
+16,SR2,Android Engineer,Kotlin,24/08/2024
+16,SR2,Android Engineer,Python,24/08/2024
+16,SR2,Android Engineer,Back End service integration,24/08/2024
+16,SR2,Android Engineer,RESTful APIs,24/08/2024
+16,SR2,Android Engineer,cloud platforms,24/08/2024
+17,The App Experts,Android Engineer,Java,25/08/2024
+17,The App Experts,Android Engineer,GooglePlay app store,25/08/2024
+17,The App Experts,Android Engineer,released applications,25/08/2024
+17,The App Experts,Android Engineer,problem solving,25/08/2024
+17,The App Experts,Android Engineer,Eclipse,25/08/2024
+17,The App Experts,Android Engineer,SQL,25/08/2024
+17,The App Experts,Android Engineer,3+,25/08/2024
+17,The App Experts,Android Engineer,innovation,25/08/2024
+17,The App Experts,Android Engineer,agile,25/08/2024
+18,Revolution Technology,Senior Android Developer,iOS,23/08/2024
+18,Revolution Technology,Senior Android Developer,Native Android development,23/08/2024
+18,Revolution Technology,Senior Android Developer,Kotlin,23/08/2024
+19,Opus Recruitment Solutions,Android Developer,Kotlin,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,CI,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Jenkins,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,SonarQube,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Jetpack,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Clean Architecture,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Widgets,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Android Architecture Components,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,engage in design sessions,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,code reviews,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,pair programming,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Provide estimates,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,deliver software on time,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Maintain technical documentation,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Communicate progress to non-technical stakeholders,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Debugging,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Agile,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Ensure compliance with regulatory measures like ISO27001 and PCI Compliance,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,mentor junior team members,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Security,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,RESTful APIs,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,multi-threading,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,build adaptive Uis,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Self-motivated,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,ability to work independently,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,development standards and best practices,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,task prioritization,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,communication,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,lead team members,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Object-Oriented Programming,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,SOLID,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,TDD,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,YAGNI,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Active learner,25/08/2024
+19,Opus Recruitment Solutions,Android Developer,Jira,25/08/2024
+20,Wayve,Android Developer,vehicle systems,20/08/2024
+20,Wayve,Android Developer,safety,20/08/2024
+20,Wayve,Android Developer,security,20/08/2024
+20,Wayve,Android Developer,robustness,20/08/2024
+20,Wayve,Android Developer,Collaboration,20/08/2024
+20,Wayve,Android Developer,performance,20/08/2024
+20,Wayve,Android Developer,standards of testing,20/08/2024
+20,Wayve,Android Developer,user experience,20/08/2024
+20,Wayve,Android Developer,application architecture,20/08/2024
+20,Wayve,Android Developer,Linux,20/08/2024
+20,Wayve,Android Developer,Kotlin,20/08/2024
+20,Wayve,Android Developer, API Design,20/08/2024
+20,Wayve,Android Developer,Software testing,20/08/2024
+20,Wayve,Android Developer,automation,20/08/2024
+20,Wayve,Android Developer,engage with real users,20/08/2024
+20,Wayve,Android Developer,robotics,20/08/2024
+20,Wayve,Android Developer,AI,20/08/2024
+21,Parity Professionals Limited,Android Developer,Kotlin,19/08/2024
+21,Parity Professionals Limited,Android Developer,Jetpack,19/08/2024
+21,Parity Professionals Limited,Android Developer,XML,19/08/2024
+21,Parity Professionals Limited,Android Developer,MVVM,19/08/2024
+21,Parity Professionals Limited,Android Developer,Agile ,19/08/2024
+21,Parity Professionals Limited,Android Developer,Scrum,19/08/2024
+21,Parity Professionals Limited,Android Developer,Azure Dev Ops,19/08/2024
+21,Parity Professionals Limited,Android Developer,CI/CD,19/08/2024
+21,Parity Professionals Limited,Android Developer,Android Studio,19/08/2024
+21,Parity Professionals Limited,Android Developer,Git,19/08/2024
+22,Mindera,Android Developer,ensure the technical feasibility of the requirements,26/08/2024
+22,Mindera,Android Developer,design patterns,26/08/2024
+22,Mindera,Android Developer,data structures,26/08/2024
+22,Mindera,Android Developer,TDD,26/08/2024
+22,Mindera,Android Developer,CI/CD,26/08/2024
+22,Mindera,Android Developer,performance,26/08/2024
+22,Mindera,Android Developer,Kotlin,26/08/2024
+22,Mindera,Android Developer,Java,26/08/2024
+22,Mindera,Android Developer,testing frameworks,26/08/2024
+22,Mindera,Android Developer,UX,26/08/2024
+23,Goldman Sachs,Android Developer,teamwork,26/08/2024
+23,Goldman Sachs,Android Developer,released applications,26/08/2024
+23,Goldman Sachs,Android Developer,RESTful web services,26/08/2024
+23,Goldman Sachs,Android Developer,Android Studio,26/08/2024
+23,Goldman Sachs,Android Developer,data visualizations,26/08/2024
+23,Goldman Sachs,Android Developer,code reuse,26/08/2024
+23,Goldman Sachs,Android Developer,debugging,26/08/2024
+23,Goldman Sachs,Android Developer,Agile,26/08/2024
+23,Goldman Sachs,Android Developer,collaboration,26/08/2024
+23,Goldman Sachs,Android Developer,contribute estimates to the planning process,26/08/2024
+23,Goldman Sachs,Android Developer,leadership,26/08/2024
+23,Goldman Sachs,Android Developer,Finance,26/08/2024
+23,Goldman Sachs,Android Developer,communication,26/08/2024
+23,Goldman Sachs,Android Developer,5+,26/08/2024
+23,Goldman Sachs,Android Developer,MVC,26/08/2024
+23,Goldman Sachs,Android Developer,Kotlin,26/08/2024
+23,Goldman Sachs,Android Developer,Room,26/08/2024
+23,Goldman Sachs,Android Developer,RxJava,26/08/2024
+23,Goldman Sachs,Android Developer,Retrofit,26/08/2024
+23,Goldman Sachs,Android Developer,Repository pattern,26/08/2024
+23,Goldman Sachs,Android Developer,MVVM,26/08/2024
+23,Goldman Sachs,Android Developer,MVI,26/08/2024
+23,Goldman Sachs,Android Developer,Git,26/08/2024
+23,Goldman Sachs,Android Developer,StackOverflow,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,Kotlin,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,Jetpack,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,XML,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,MVVM,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,Agile,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,Scrum,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,Azure DevOps,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,CI/CD,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,Android Studio,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,Git,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,teamwork,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,code fixes,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,integrating Android mobile applications with APIs,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,5+,26/08/2024
+24,CareerAddict,Android Mobile Application Senior Developer - Kotlin,released applications,26/08/2024
+25,British Heroes,Android Developer,teamwork,26/08/2024
+25,British Heroes,Android Developer,JAVA,26/08/2024
+25,British Heroes,Android Developer,Kotlin,26/08/2024
+25,British Heroes,Android Developer,REST,26/08/2024
+25,British Heroes,Android Developer,SOAP,26/08/2024
+25,British Heroes,Android Developer,JSON,26/08/2024
+26,Vertex IT Solutions Ltd,Android Developer,Collaboration,20/08/2024
+26,Vertex IT Solutions Ltd,Android Developer,4+,20/08/2024
+26,Vertex IT Solutions Ltd,Android Developer,Kotlin,20/08/2024
+26,Vertex IT Solutions Ltd,Android Developer,Android SDK,20/08/2024
+26,Vertex IT Solutions Ltd,Android Developer,Java,20/08/2024
+26,Vertex IT Solutions Ltd,Android Developer,integrating Android mobile applications with APIs,20/08/2024
+26,Vertex IT Solutions Ltd,Android Developer,Git,20/08/2024
+27,MRJ Recruitment,Android Developer,Kotlin,23/08/2024
+27,MRJ Recruitment,Android Developer,Collaboration,23/08/2024
+27,MRJ Recruitment,Android Developer,performance,23/08/2024
+27,MRJ Recruitment,Android Developer,Troubleshooting,23/08/2024
+27,MRJ Recruitment,Android Developer,scalability,23/08/2024
+27,MRJ Recruitment,Android Developer,RESTful APIs,23/08/2024
+27,MRJ Recruitment,Android Developer,Problem-solving,23/08/2024
+28,Manchester Digital,Android Tech Lead,leadership,22/08/2024
+28,Manchester Digital,Android Tech Lead,agile,22/08/2024
+28,Manchester Digital,Android Tech Lead,Dev Ops,22/08/2024
+28,Manchester Digital,Android Tech Lead,CI/CD,22/08/2024
+28,Manchester Digital,Android Tech Lead,TDD,22/08/2024
+29,Simon James IT Ltd,Android Developer,MVVM,23/08/2024
+29,Simon James IT Ltd,Android Developer,Kotlin,23/08/2024
+29,Simon James IT Ltd,Android Developer,Java,23/08/2024
+29,Simon James IT Ltd,Android Developer,Git,23/08/2024
+29,Simon James IT Ltd,Android Developer,Full SDLC,23/08/2024
+29,Simon James IT Ltd,Android Developer,leadership,23/08/2024
+29,Simon James IT Ltd,Android Developer,Android architecture patterns,23/08/2024
+29,Simon James IT Ltd,Android Developer,Use Cases,23/08/2024
+29,Simon James IT Ltd,Android Developer,Clean Architecture,23/08/2024
+29,Simon James IT Ltd,Android Developer,Automated testing,23/08/2024
+29,Simon James IT Ltd,Android Developer,performance,23/08/2024
+29,Simon James IT Ltd,Android Developer,system design,23/08/2024
+29,Simon James IT Ltd,Android Developer,debugging,23/08/2024
+29,Simon James IT Ltd,Android Developer,maintinance,23/08/2024
+29,Simon James IT Ltd,Android Developer,Agile,23/08/2024
+29,Simon James IT Ltd,Android Developer,Resilience,23/08/2024
+29,Simon James IT Ltd,Android Developer,Security,23/08/2024
+29,Simon James IT Ltd,Android Developer,CI/CD,23/08/2024
+29,Simon James IT Ltd,Android Developer,Cryptography,23/08/2024
+29,Simon James IT Ltd,Android Developer,React Native,23/08/2024
+29,Simon James IT Ltd,Android Developer,Expo,23/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,Kotlin,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,Jetpack,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,XML,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,MVVM,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,Agile,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,Scrum,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,Azure DevOps,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,CI/CD,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,Android Studio,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,Git,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,teamwork,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,integrating Android mobile applications with APIs,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,5+,21/08/2024
+30,J & C Associates Ltd,Mobile Android Developer,Troubleshooting,21/08/2024
+31,CV Library,Mobile Android Developer,Kotlin,22/08/2024
+31,CV Library,Mobile Android Developer,Jetpack,22/08/2024
+31,CV Library,Mobile Android Developer,XML,22/08/2024
+31,CV Library,Mobile Android Developer,MVVM,22/08/2024
+31,CV Library,Mobile Android Developer,Agile,22/08/2024
+31,CV Library,Mobile Android Developer,Scrum,22/08/2024
+31,CV Library,Mobile Android Developer,Azure DevOps,22/08/2024
+31,CV Library,Mobile Android Developer,CI/CD,22/08/2024
+31,CV Library,Mobile Android Developer,Android Studio,22/08/2024
+31,CV Library,Mobile Android Developer,Git,22/08/2024
+31,CV Library,Mobile Android Developer,teamwork,22/08/2024
+31,CV Library,Mobile Android Developer,collaboration,22/08/2024
+31,CV Library,Mobile Android Developer,maintenance,22/08/2024
+31,CV Library,Mobile Android Developer,bug fixes,22/08/2024
+31,CV Library,Mobile Android Developer,integrating Android mobile applications with APIs,22/08/2024
+31,CV Library,Mobile Android Developer,released applications,22/08/2024
+32,DiSRUPT,Android Developer,communication,26/08/2024
+32,DiSRUPT,Android Developer,Git,26/08/2024
+32,DiSRUPT,Android Developer,Google Firebase,26/08/2024
+32,DiSRUPT,Android Developer,security,26/08/2024
+32,DiSRUPT,Android Developer, work independently,26/08/2024
+32,DiSRUPT,Android Developer,problem solving,26/08/2024
+32,DiSRUPT,Android Developer,collaboration,26/08/2024
+32,DiSRUPT,Android Developer,teamwork,26/08/2024
+32,DiSRUPT,Android Developer,UX/UI,26/08/2024
+32,DiSRUPT,Android Developer,Kotlin,26/08/2024
+32,DiSRUPT,Android Developer,Coroutines,26/08/2024
+32,DiSRUPT,Android Developer,Compose,26/08/2024
+32,DiSRUPT,Android Developer,smartwatch application development,26/08/2024
+33,UK Jobs,Mobile Developer – Android,teamwork,26/08/2024
+33,UK Jobs,Mobile Developer – Android,UX,26/08/2024
+33,UK Jobs,Mobile Developer – Android,Java,26/08/2024
+33,UK Jobs,Mobile Developer – Android,Kotlin,26/08/2024
+33,UK Jobs,Mobile Developer – Android,RESTful APIs,26/08/2024
+33,UK Jobs,Mobile Developer – Android,web services,26/08/2024
+33,UK Jobs,Mobile Developer – Android,performance,26/08/2024
+33,UK Jobs,Mobile Developer – Android,Releasing android apps,26/08/2024
+33,UK Jobs,Mobile Developer – Android,communication,26/08/2024
+33,UK Jobs,Mobile Developer – Android,3+,26/08/2024
+33,UK Jobs,Mobile Developer – Android,Git,26/08/2024
+34,Storyteller,Senior Android Developer,Understanding business objectives,20/08/2024
+34,Storyteller,Senior Android Developer,teamwork,20/08/2024
+34,Storyteller,Senior Android Developer,Providing technical guidance,20/08/2024
+34,Storyteller,Senior Android Developer,willingness to learn,20/08/2024
+34,Storyteller,Senior Android Developer,creating plans,20/08/2024
+34,Storyteller,Senior Android Developer,communication,20/08/2024
+34,Storyteller,Senior Android Developer,5+,20/08/2024
+34,Storyteller,Senior Android Developer,Kotlin,20/08/2024
+34,Storyteller,Senior Android Developer,Dagger,20/08/2024
+34,Storyteller,Senior Android Developer,Compose,20/08/2024
+34,Storyteller,Senior Android Developer,XML,20/08/2024
+34,Storyteller,Senior Android Developer,ViewModels,20/08/2024
+34,Storyteller,Senior Android Developer,Coroutines,20/08/2024
+34,Storyteller,Senior Android Developer,Flows,20/08/2024
+34,Storyteller,Senior Android Developer,MVVM,20/08/2024
+34,Storyteller,Senior Android Developer,MVI,20/08/2024
+34,Storyteller,Senior Android Developer,Unit Testing,20/08/2024
+34,Storyteller,Senior Android Developer,problem-solving,20/08/2024
+34,Storyteller,Senior Android Developer,communication,20/08/2024
+34,Storyteller,Senior Android Developer,iOS,20/08/2024
+34,Storyteller,Senior Android Developer,released applications,20/08/2024
+34,Storyteller,Senior Android Developer,Continuous,20/08/2024
+34,Storyteller,Senior Android Developer,Object-Oriented Programming,20/08/2024
+34,Storyteller,Senior Android Developer,Git,20/08/2024
+34,Storyteller,Senior Android Developer,Agile,20/08/2024
+35,MindPal,Android Developer,Java,26/08/2024
+35,MindPal,Android Developer,Kotlin,26/08/2024
+35,MindPal,Android Developer,beacons,26/08/2024
+35,MindPal,Android Developer,Indoor Navigation,26/08/2024
+35,MindPal,Android Developer,teamwork,26/08/2024
+35,MindPal,Android Developer,algorithms,26/08/2024
+35,MindPal,Android Developer,Designing user interfaces,26/08/2024
+35,MindPal,Android Developer,integrating Android mobile applications with APIs,26/08/2024
+35,MindPal,Android Developer,performance testing,26/08/2024
+36,Konrad,Android Developer,teamwork,14/08/2024
+36,Konrad,Android Developer,maintainability,14/08/2024
+36,Konrad,Android Developer,performance,14/08/2024
+36,Konrad,Android Developer,code review,14/08/2024
+36,Konrad,Android Developer,Software testing,14/08/2024
+36,Konrad,Android Developer,Communication,14/08/2024
+36,Konrad,Android Developer,interact with server-side components,14/08/2024
+36,Konrad,Android Developer,UI design,14/08/2024
+36,Konrad,Android Developer,REST APIs,14/08/2024
+36,Konrad,Android Developer,Kotlin,14/08/2024
+36,Konrad,Android Developer,Jetpack,14/08/2024
+36,Konrad,Android Developer,MVVM,14/08/2024
+36,Konrad,Android Developer,MVP,14/08/2024
+36,Konrad,Android Developer,reactive programming,14/08/2024
+36,Konrad,Android Developer,ReactiveX,14/08/2024
+36,Konrad,Android Developer,GraphQL,14/08/2024
+36,Konrad,Android Developer,networking,14/08/2024
+36,Konrad,Android Developer,iOS,14/08/2024
+36,Konrad,Android Developer,Swift,14/08/2024
+36,Konrad,Android Developer,React Native,14/08/2024
+36,Konrad,Android Developer,Flutter,14/08/2024
+36,Konrad,Android Developer,Ionic,14/08/2024
+36,Konrad,Android Developer,Xamarin,14/08/2024
+36,Konrad,Android Developer,Cordova,14/08/2024
+37,Nabu Casa,Android Developer,code reviews,19/08/2024
+37,Nabu Casa,Android Developer,coding standards,19/08/2024
+37,Nabu Casa,Android Developer,Collaboration,19/08/2024
+37,Nabu Casa,Android Developer,teamwork,19/08/2024
+37,Nabu Casa,Android Developer,Kotlin,19/08/2024
+37,Nabu Casa,Android Developer,Java,19/08/2024
+37,Nabu Casa,Android Developer,Android SDK,19/08/2024
+37,Nabu Casa,Android Developer,unit testing,19/08/2024
+37,Nabu Casa,Android Developer,UI testing,19/08/2024
+37,Nabu Casa,Android Developer,debugging,19/08/2024
+37,Nabu Casa,Android Developer,performance,19/08/2024
+37,Nabu Casa,Android Developer,problem-solving,19/08/2024
+37,Nabu Casa,Android Developer,work independently,19/08/2024
+37,Nabu Casa,Android Developer,Git,19/08/2024
+37,Nabu Casa,Android Developer,communication,19/08/2024
+37,Nabu Casa,Android Developer,wearOS,19/08/2024
+37,Nabu Casa,Android Developer,Android TV,19/08/2024
+37,Nabu Casa,Android Developer,iOS,19/08/2024
+37,Nabu Casa,Android Developer,Python,19/08/2024
+37,Nabu Casa,Android Developer,TypeScript,19/08/2024
+37,Nabu Casa,Android Developer,CI/CD,19/08/2024
+37,Nabu Casa,Android Developer,released applications,19/08/2024
+38,Jefferson Frank,Android Developer,Kotlin,26/06/2024
+38,Jefferson Frank,Android Developer,Java,26/06/2024
+38,Jefferson Frank,Android Developer,scaling Android architecture,26/06/2024
+38,Jefferson Frank,Android Developer,Android Studio,26/06/2024
+38,Jefferson Frank,Android Developer,teamwork,26/06/2024
+38,Jefferson Frank,Android Developer,Android SDK,26/06/2024
+38,Jefferson Frank,Android Developer,AndroidX,26/06/2024
+39,Randstad UK,Senior Android Developer,agile,19/08/2024
+39,Randstad UK,Senior Android Developer,development plans,19/08/2024
+39,Randstad UK,Senior Android Developer,budgetary estimates,19/08/2024
+39,Randstad UK,Senior Android Developer,design patterns,19/08/2024
+39,Randstad UK,Senior Android Developer,security,19/08/2024
+39,Randstad UK,Senior Android Developer,cloud platforms,19/08/2024
+39,Randstad UK,Senior Android Developer,C#,19/08/2024
+39,Randstad UK,Senior Android Developer,Java,19/08/2024
+39,Randstad UK,Senior Android Developer,Javascript,19/08/2024
+39,Randstad UK,Senior Android Developer,SQL,19/08/2024
+39,Randstad UK,Senior Android Developer,PowerShell,19/08/2024
+40,Brio Digital,Android Developer,banking,19/08/2024
+40,Brio Digital,Android Developer,robustness,19/08/2024
+40,Brio Digital,Android Developer,Collaboration,19/08/2024
+40,Brio Digital,Android Developer,security,19/08/2024
+40,Brio Digital,Android Developer,Kotlin,19/08/2024
+40,Brio Digital,Android Developer,Java,19/08/2024
+40,Brio Digital,Android Developer,scalability,19/08/2024
+40,Brio Digital,Android Developer,RESTful APIs,19/08/2024
+40,Brio Digital,Android Developer,integrating Android mobile applications with APIs,19/08/2024
+40,Brio Digital,Android Developer,CI/CD,19/08/2024
+40,Brio Digital,Android Developer,performance testing,19/08/2024
+40,Brio Digital,Android Developer,best practices,19/08/2024
+40,Brio Digital,Android Developer,Android SDK,19/08/2024
+40,Brio Digital,Android Developer,Jenkins,19/08/2024
+40,Brio Digital,Android Developer,Git,19/08/2024
+40,Brio Digital,Android Developer,CircleCI,19/08/2024
+40,Brio Digital,Android Developer,problem-solving,19/08/2024
+40,Brio Digital,Android Developer,communication,19/08/2024
+40,Brio Digital,Android Developer,MVVM,19/08/2024
+40,Brio Digital,Android Developer,Clean Architecture,19/08/2024
+40,Brio Digital,Android Developer,automated testing,19/08/2024
+40,Brio Digital,Android Developer,Espresso,19/08/2024
+40,Brio Digital,Android Developer,JUnit,19/08/2024
+40,Brio Digital,Android Developer,unit testing,19/08/2024
+41,Accessplc,Senior Android Developer,Kotlin,19/08/2024
+41,Accessplc,Senior Android Developer,Jetpack,19/08/2024
+41,Accessplc,Senior Android Developer,XML,19/08/2024
+41,Accessplc,Senior Android Developer,MVVM,19/08/2024
+41,Accessplc,Senior Android Developer,Agile,19/08/2024
+41,Accessplc,Senior Android Developer,Scrum,19/08/2024
+41,Accessplc,Senior Android Developer,Azure DevOps,19/08/2024
+41,Accessplc,Senior Android Developer,CI/CD Pipelines,19/08/2024
+41,Accessplc,Senior Android Developer,Android Studio,19/08/2024
+41,Accessplc,Senior Android Developer,Git,19/08/2024
+41,Accessplc,Senior Android Developer,diagnosing production issues,19/08/2024
+41,Accessplc,Senior Android Developer,teamwork,19/08/2024
+41,Accessplc,Senior Android Developer,integrating Android mobile applications with APIs,19/08/2024
+41,Accessplc,Senior Android Developer,5+,19/08/2024
+41,Accessplc,Senior Android Developer,Development Standards,19/08/2024
+41,Accessplc,Senior Android Developer,development Best Practices,19/08/2024
+42,Fleksy,Senior Android Developer,Healthcare,19/08/2024
+42,Fleksy,Senior Android Developer,performance,19/08/2024
+42,Fleksy,Senior Android Developer,troubleshooting,19/08/2024
+42,Fleksy,Senior Android Developer,teamwork,19/08/2024
+42,Fleksy,Senior Android Developer,analyze requirements,19/08/2024
+42,Fleksy,Senior Android Developer,4+,19/08/2024
+42,Fleksy,Senior Android Developer,UI design,19/08/2024
+42,Fleksy,Senior Android Developer,clean code,19/08/2024
+42,Fleksy,Senior Android Developer,maintainability,19/08/2024
+42,Fleksy,Senior Android Developer,communication,19/08/2024
+42,Fleksy,Senior Android Developer,system design,19/08/2024
+43,McGregor Boyall,Android Developer,Kotlin,19/08/2024
+43,McGregor Boyall,Android Developer,Jetpack,19/08/2024
+43,McGregor Boyall,Android Developer,XML,19/08/2024
+43,McGregor Boyall,Android Developer,MVVM,19/08/2024
+43,McGregor Boyall,Android Developer,Agile,19/08/2024
+43,McGregor Boyall,Android Developer,Scrum,19/08/2024
+43,McGregor Boyall,Android Developer,Azure DevOps,19/08/2024
+43,McGregor Boyall,Android Developer,CI/CD,19/08/2024
+43,McGregor Boyall,Android Developer,Android studio,19/08/2024
+43,McGregor Boyall,Android Developer,GIT,19/08/2024
+43,McGregor Boyall,Android Developer,integrating Android mobile applications with APIs,19/08/2024
+44,SumUp,Senior Android Developer,CI/CD,28/05/2024
+44,SumUp,Senior Android Developer,teamwork,28/05/2024
+44,SumUp,Senior Android Developer,Kotlin,28/05/2024
+44,SumUp,Senior Android Developer,Android framework,28/05/2024
+44,SumUp,Senior Android Developer,Software testing,28/05/2024
+44,SumUp,Senior Android Developer,usability,28/05/2024
+44,SumUp,Senior Android Developer,clean code,28/05/2024
+45,Cognizant,Lead Android Developer,Collaboration,21/08/2024
+45,Cognizant,Lead Android Developer,Write clean code,21/08/2024
+45,Cognizant,Lead Android Developer,best practices,21/08/2024
+45,Cognizant,Lead Android Developer,code reviews,21/08/2024
+45,Cognizant,Lead Android Developer,automated testing,21/08/2024
+45,Cognizant,Lead Android Developer,fix bugs,21/08/2024
+45,Cognizant,Lead Android Developer,UI/UX designs,21/08/2024
+45,Cognizant,Lead Android Developer,mentor junior team members,21/08/2024
+45,Cognizant,Lead Android Developer,MVVM,21/08/2024
+45,Cognizant,Lead Android Developer,Use Cases,21/08/2024
+45,Cognizant,Lead Android Developer,Clean Architecture,21/08/2024
+45,Cognizant,Lead Android Developer,Kotlin,21/08/2024
+45,Cognizant,Lead Android Developer,Java,21/08/2024
+45,Cognizant,Lead Android Developer,problem solving,21/08/2024
+45,Cognizant,Lead Android Developer,performance,21/08/2024
+45,Cognizant,Lead Android Developer,Git,21/08/2024
+45,Cognizant,Lead Android Developer,system design,21/08/2024
+45,Cognizant,Lead Android Developer,Software testing,21/08/2024
+45,Cognizant,Lead Android Developer,Agile,21/08/2024
+45,Cognizant,Lead Android Developer,Resiliency,21/08/2024
+45,Cognizant,Lead Android Developer,Security,21/08/2024
+45,Cognizant,Lead Android Developer,CI/CD,21/08/2024
+45,Cognizant,Lead Android Developer,Cryptography,21/08/2024
+45,Cognizant,Lead Android Developer,React Native,21/08/2024
+45,Cognizant,Lead Android Developer,Expo,21/08/2024
+46,Cross Border Talents,Senior Android Developer,integrating Android mobile applications with APIs,01/01/2024
+46,Cross Border Talents,Senior Android Developer,Writing clean code,01/01/2024
+46,Cross Border Talents,Senior Android Developer,performance,01/01/2024
+46,Cross Border Talents,Senior Android Developer,bug fixes,01/01/2024
+46,Cross Border Talents,Senior Android Developer,unit testing,01/01/2024
+46,Cross Border Talents,Senior Android Developer,Collaboration,01/01/2024
+46,Cross Border Talents,Senior Android Developer,Kotlin,01/01/2024
+46,Cross Border Talents,Senior Android Developer,Java,01/01/2024
+46,Cross Border Talents,Senior Android Developer,Android SDK,01/01/2024
+46,Cross Border Talents,Senior Android Developer,SOLID,01/01/2024
+46,Cross Border Talents,Senior Android Developer,released applications,01/01/2024
+46,Cross Border Talents,Senior Android Developer,MVVM,01/01/2024
+46,Cross Border Talents,Senior Android Developer,MVC,01/01/2024
+46,Cross Border Talents,Senior Android Developer,MVP,01/01/2024
+46,Cross Border Talents,Senior Android Developer,RESTful APIs,01/01/2024
+46,Cross Border Talents,Senior Android Developer,design principles ,01/01/2024
+46,Cross Border Talents,Senior Android Developer,git,01/01/2024
+46,Cross Border Talents,Senior Android Developer,CI,01/01/2024
+46,Cross Border Talents,Senior Android Developer,Bitrise,01/01/2024
+46,Cross Border Talents,Senior Android Developer,Fastlane,01/01/2024
+46,Cross Border Talents,Senior Android Developer,analytical skills,01/01/2024
+46,Cross Border Talents,Senior Android Developer,problem solving,01/01/2024
+47,Talent Job Seeker,Junior Android Developer,Java,21/08/2024
+47,Talent Job Seeker,Junior Android Developer,Kotlin,21/08/2024
+47,Talent Job Seeker,Junior Android Developer,Collaboration,21/08/2024
+47,Talent Job Seeker,Junior Android Developer,Write clean code,21/08/2024
+47,Talent Job Seeker,Junior Android Developer,well-documented code,21/08/2024
+47,Talent Job Seeker,Junior Android Developer,code reviews,21/08/2024
+47,Talent Job Seeker,Junior Android Developer,Debugging,21/08/2024
+47,Talent Job Seeker,Junior Android Developer,bug fixes,21/08/2024
+47,Talent Job Seeker,Junior Android Developer,development best practices,21/08/2024
+48,Sky,Senior Android Developer,teamwork,26/07/2024
+48,Sky,Senior Android Developer,Kotlin,26/07/2024
+48,Sky,Senior Android Developer,unit testing,26/07/2024
+48,Sky,Senior Android Developer,UI testing,26/07/2024
+48,Sky,Senior Android Developer,MVVM,26/07/2024
+48,Sky,Senior Android Developer,SOLID,26/07/2024
+48,Sky,Senior Android Developer,Continuous,26/07/2024
+48,Sky,Senior Android Developer,debugging,26/07/2024
+48,Sky,Senior Android Developer,bug fixes,26/07/2024
+48,Sky,Senior Android Developer,performance,26/07/2024
+48,Sky,Senior Android Developer,git,26/07/2024
+48,Sky,Senior Android Developer,Gradle,26/07/2024
+48,Sky,Senior Android Developer,Firebase,26/07/2024
+48,Sky,Senior Android Developer,Ruby,26/07/2024
+48,Sky,Senior Android Developer,communication,26/07/2024
+49,Yorkshire Building Society,Android Developer,code best practice,21/08/2024
+49,Yorkshire Building Society,Android Developer,specify and document development requirements,21/08/2024
+49,Yorkshire Building Society,Android Developer,Kotlin,21/08/2024
+49,Yorkshire Building Society,Android Developer,released applications,21/08/2024
+49,Yorkshire Building Society,Android Developer,unit testing,21/08/2024
+49,Yorkshire Building Society,Android Developer,UI testing,21/08/2024
+49,Yorkshire Building Society,Android Developer,CI/CD,21/08/2024
+49,Yorkshire Building Society,Android Developer,Git,21/08/2024
+49,Yorkshire Building Society,Android Developer,Espresso,21/08/2024
+49,Yorkshire Building Society,Android Developer,CircleCI,21/08/2024
+49,Yorkshire Building Society,Android Developer,RESTful APIs,21/08/2024
+49,Yorkshire Building Society,Android Developer,MVVM,21/08/2024
+49,Yorkshire Building Society,Android Developer,clean architecture,21/08/2024
+50,Impact Team,Android Developer,Kotlin,21/08/2024
+50,Impact Team,Android Developer,Node.JS,21/08/2024
+50,Impact Team,Android Developer,MVVM,21/08/2024
+50,Impact Team,Android Developer,RESTful APIs,21/08/2024
+50,Impact Team,Android Developer,Cloud technologies,21/08/2024
+50,Impact Team,Android Developer,DevOps,21/08/2024
+50,Impact Team,Android Developer,Security,21/08/2024
+50,Impact Team,Android Developer,Git,21/08/2024
+50,Impact Team,Android Developer,Jenkins,21/08/2024
+50,Impact Team,Android Developer,Ansible,21/08/2024
+50,Impact Team,Android Developer,Checkmarx,21/08/2024
+50,Impact Team,Android Developer,SonarQube,21/08/2024
+50,Impact Team,Android Developer,Postman,21/08/2024
+50,Impact Team,Android Developer,Appium,21/08/2024
+50,Impact Team,Android Developer,Selenium,21/08/2024
+50,Impact Team,Android Developer,Waterfall,21/08/2024
+50,Impact Team,Android Developer,Agile,21/08/2024
+50,Impact Team,Android Developer,Scrum,21/08/2024
+50,Impact Team,Android Developer,CI/CD,21/08/2024
+50,Impact Team,Android Developer,automated testing,21/08/2024
+50,Impact Team,Android Developer,code reviews,21/08/2024
+50,Impact Team,Android Developer,performance,21/08/2024
+50,Impact Team,Android Developer,usability,21/08/2024
+50,Impact Team,Android Developer,reliability,21/08/2024
+50,Impact Team,Android Developer,banking,21/08/2024
+50,Impact Team,Android Developer,performance,21/08/2024
+50,Impact Team,Android Developer,testablility,21/08/2024
